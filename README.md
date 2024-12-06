@@ -1,4 +1,4 @@
-# aop-part5-chapter01 - CleanArchitecture와 함께 ToDo앱 만들기
+#  CleanArchitecture와 함께 ToDo앱 만들기
 
 ---
 
